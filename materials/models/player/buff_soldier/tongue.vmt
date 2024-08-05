@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "console/models/player/mge/soldier/tongue"
+	"$bumpmap" "console/models/player/mge/soldier/tongue_n"
+	"$surfaceprop" "Flesh"
+}

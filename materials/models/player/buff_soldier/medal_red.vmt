@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "console/models/player/mge/soldier/medal_red"
+	"$bumpmap" "console/models/player/mge/soldier/medal_normal"
+	"$surfaceprop" "Metal"
+}
