@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture"	"console\models\player\mge\soldier/soldier_red_invun"
+	"$basetexture"	"models/player/buff_soldier/soldier_red_invun"
 	<dx90
 	{
 		 	"$bumpmap" "water/dx80_tfwater001_normal"

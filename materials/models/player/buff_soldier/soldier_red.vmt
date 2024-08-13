@@ -1,8 +1,8 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "console\models\player\mge\soldier/soldier_red"
+	"$basetexture" "models/player/buff_soldier/soldier_red"
 
-	"$bumpmap" "console\models\player\mge\soldier/soldier_normal"
+	"$bumpmap" "models/player/buff_soldier/soldier_normal"
 	"$detail" "effects/tiledfire/fireLayeredSlowTiled512.vtf"	
 	"$detailscale" "5"
 	"$detailblendfactor" .01

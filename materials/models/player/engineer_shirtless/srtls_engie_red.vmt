@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "models/player/engineer/srtls_engie_red"
-	"$bumpmap"     "models/player/engineer/srtls_engie_normal"
+	"$basetexture" "models/player/engineer_shirtless/srtls_engie_red"
+	"$bumpmap"     "models/player/engineer_shirtless/srtls_engie_normal"
 	"$detail" "effects/tiledfire/fireLayeredSlowTiled512.vtf"	
 	"$detailscale" "1"
 	"$detailblendfactor" .01

@@ -1,6 +1,6 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "console/models/player/mge/soldier/nails"
-	"$bumpmap" "console/models/player/mge/soldier/nails_normal"
+	"$basetexture" "models/player/buff_soldier/nails"
+	"$bumpmap" "models/player/buff_soldier/nails_normal"
 	"$surfaceprop" "Flesh"
 }

@@ -1,6 +1,6 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "console/models/player/mge/soldier/top_blue"
+	"$basetexture" "models/player/buff_soldier/top_blue"
                 <dx90
 	{
 		 	"$bumpmap" "water/dx80_tfwater001_normal"

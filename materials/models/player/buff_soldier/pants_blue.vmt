@@ -1,6 +1,6 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "console/models/player/mge/soldier/pants_blue"
-	"$bumpmap" "console/models/player/mge/soldier/pants_normal"
+	"$basetexture" "models/player/buff_soldier/pants_blue"
+	"$bumpmap" "models/player/buff_soldier/pants_normal"
 	"$surfaceprop" "Flesh"
 }

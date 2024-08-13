@@ -1,11 +1,11 @@
 "VertexLitGeneric"
 {
-	"$basetexture"	"models/player/engineer/srtls_engie_blue"
+	"$basetexture"	"models/player/engineer_shirtless/srtls_engie_blue"
 	<dx90
 	{
 		 	"$bumpmap" "water/dx80_tfwater001_normal"
 	}
-	"$bumpmap" "models/player/engineer/srtls_engie_normal"
+	"$bumpmap" "models/player/engineer_shirtless/srtls_engie_normal"
 	"$envmap" "effects/cubemapper"
 	"$surfaceprop" "metal"
 	"$halflambert" "1"

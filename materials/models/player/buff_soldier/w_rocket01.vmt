@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture"	"console\models\player\mge\soldier\w_rocket01"
+	"$basetexture"	"models/player/buff_soldier\w_rocket01"
 	
 	"$phong" "1"
 	"$phongexponent" "25"
